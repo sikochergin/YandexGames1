@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|c:\\users\\amd\\documents\\github\\casualyg1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\activeitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\activeitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|c:\\users\\amd\\documents\\github\\casualyg1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\soundvol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soundvol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\yandexgame\\scriptsyg\\timerbeforeadsyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\scriptsyg\\timerbeforeadsyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\downloadpacks\\joystick pack\\scripts\\joysticks\\fixedjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\downloadpacks\\joystick pack\\scripts\\joysticks\\fixedjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\mobileinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mobileinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\pickaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pickaxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\wallcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\wallcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\sliderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sliderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\restarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\restarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\assets\\script\\ore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BD28B0-05B8-C183-2110-285432F6A710}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActiveItems.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\ActiveItems.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ActiveItems.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\ActiveItems.cs",
+              "RelativeToolTip": "Assets\\Script\\ActiveItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:30:42.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SliderUI.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\SliderUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SliderUI.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\SliderUI.cs",
+              "RelativeToolTip": "Assets\\Script\\SliderUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:32:13.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimerBeforeAdsYG.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\YandexGame\\ScriptsYG\\TimerBeforeAdsYG.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\ScriptsYG\\TimerBeforeAdsYG.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\YandexGame\\ScriptsYG\\TimerBeforeAdsYG.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\ScriptsYG\\TimerBeforeAdsYG.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAWwDEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:59:01.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pause.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Pause.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Pause.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Pause.cs",
+              "RelativeToolTip": "Assets\\Script\\Pause.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:55:11.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Restarter.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Restarter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Restarter.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Restarter.cs",
+              "RelativeToolTip": "Assets\\Script\\Restarter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:55:23.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FixedJoystick.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\DownLoadPacks\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "RelativeDocumentMoniker": "Assets\\DownLoadPacks\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\DownLoadPacks\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "RelativeToolTip": "Assets\\DownLoadPacks\\Joystick Pack\\Scripts\\Joysticks\\FixedJoystick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:33:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MobileInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\MobileInputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MobileInputManager.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\MobileInputManager.cs",
+              "RelativeToolTip": "Assets\\Script\\MobileInputManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:29:08.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StartMenu.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\StartMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\StartMenu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:00:01.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAEBVwD8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:47:48.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundVol.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\SoundVol.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SoundVol.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\SoundVol.cs",
+              "RelativeToolTip": "Assets\\Script\\SoundVol.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:30:43.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Shop.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Shop.cs",
+              "RelativeToolTip": "Assets\\Script\\Shop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:39:18.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WallCounter.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\WallCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WallCounter.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\WallCounter.cs",
+              "RelativeToolTip": "Assets\\Script\\WallCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:21:26.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Wall.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Wall.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Wall.cs",
+              "RelativeToolTip": "Assets\\Script\\Wall.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:18:56.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PickAxe.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\PickAxe.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PickAxe.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\PickAxe.cs",
+              "RelativeToolTip": "Assets\\Script\\PickAxe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:13:04.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ore.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Ore.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Ore.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\GitHub\\CasualYG1-c9d24c626487717c9fdca64cfe7d9df6a0c04c34\\Assets\\Script\\Ore.cs",
+              "RelativeToolTip": "Assets\\Script\\Ore.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:47:39.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

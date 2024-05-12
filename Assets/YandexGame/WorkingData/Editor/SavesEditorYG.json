@@ -1,0 +1,14 @@
+{
+    "idSave": 5382,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 1,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "DataJson": "{\"PALevel\":0,\"AMlevel\":0,\"Walls\":0,\"Money\":262144}"
+}
